@@ -19,7 +19,7 @@ An intuitive and user-friendly application designed to help users track their in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/investment-app.git
+   git clone https://github.com/ArdenDiago/Investment_Calculator.git
    ```
 2. Navigate to the project directory:
    ```bash
